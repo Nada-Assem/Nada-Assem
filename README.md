@@ -7,7 +7,12 @@
 </p>
 
 
+
 <br>
+
+<a href = "https://commits.top/egypt.html" target="_blank">
+		<img src="https://img.shields.io/badge/dynamic/json?label=Most%20Active%20GitHub%20User%20in%20Egypt&query=%24.rank&prefix=Rank%20&logo=github&style=for-the-badge&color=grey&labelColor=333&url=https://aktive.tk/rank/egypt/nada-assem" alt="Most Active Users" target="_blank" width=40%/> 
+	</a>
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nada-assem&label=Profile%20views&color=0e75b6&style=flat" alt="nada-assem" /> </p>
 <img align="right" src="https://github.com/Nada-Assem/Nada-Assem/blob/main/Right_Side.gif?raw=true" width=30%>
