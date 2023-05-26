@@ -34,3 +34,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nada-assem&" alt="nada-assem" /></p>
 
+</br></br>
+	
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/Nada-Assem/Nada-Assem/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
