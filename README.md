@@ -14,6 +14,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nada-assem&label=Profile%20views&color=0e75b6&style=flat" alt="nada-assem" width=19.40%/> </p>
 <img align="right" src="https://github.com/Nada-Assem/Nada-Assem/blob/main/Right_Side.gif?raw=true" width=30%>
 
+</p>
+
+
+
+<br> 
 - You can reach out to me on **nadaassem81@gmail.com**
 
 - ⚡ Fun fact **always learning**
