@@ -23,10 +23,8 @@
 
 <br></br>
 
-- You can reach out to me on **nadaassem81@gmail.com**
 
-- ⚡ Fun fact **always learning**
-
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nada-assem-3030a81b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nada-assem-3030a81b5/" height="30" width="40" /></a>
