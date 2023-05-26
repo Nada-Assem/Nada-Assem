@@ -4,19 +4,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer;+Computer+Science+Student;Fultter+Developer;competitive+programmer;Always+learn+new+things" alt="Typing SVG" /></a>
 </p>
 
-</p>
-
-
-
-
-
-
-
-
-
-
 
 <br>
+
+
+
+</br>
+
+  
 
   
 
