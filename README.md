@@ -11,6 +11,16 @@
 <img align="right" src="https://github.com/Nada-Assem/Nada-Assem/blob/main/Right_Side.gif?raw=true" width=30%>
 </p>
 
+
+<br><br>
+
+- :school: I am a `senior` at Faculty of Computers & Informatics at Luxor University.
+- :technologist: I love using Software as a solution for every `Problem`.
+- :computer: I am a competitive programmer.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+<br>
+
 <br></br>
 
 - You can reach out to me on **nadaassem81@gmail.com**
