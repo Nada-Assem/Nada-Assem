@@ -1,6 +1,10 @@
 <h1 align="center">Hi👋 I'm Nada Assem</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Software+Engineer;+Computer+Science+Student;Fultter+Developer;competitive+programmer;Always+learn+new+things" alt="Typing SVG" /></a>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=435&lines=Software+Engineer;+Computer+Science+Student;Fultter+Developer;competitive+programmer;Always+learn+new+things" alt="Typing SVG" /></a>
+</p>
+
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nada-assem&label=Profile%20views&color=0e75b6&style=flat" alt="nada-assem" /> </p>
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
