@@ -5,7 +5,7 @@
 </p>
 
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nada-assem&label=Profile%20views&color=0e75b6&style=flat" alt="nada-assem" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nada-assem&label=Profile%20views&color=0e75b6&style=flat" alt="nada-assem" /> </p>
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 - You can reach out to me on **nadaassem81@gmail.com**
