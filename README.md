@@ -14,11 +14,12 @@
 
 <br><br>
 
-- :school: I am a `senior` at Faculty of Computers & Informatics at Luxor University.
-- :technologist: I love using Software as a solution for every `Problem`.
+- :Faculty: I hold a Bachelor's degree in Computer Science from the Faculty of Computers and Information, Luxor University
+- :technologist: I love using Software to solve every `Problem`.
 - :computer: I am a competitive programmer.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
+- 🌱 I’m currently learning `Back End (ASP.NET)`
+
 <br>
 
 <br></br>
