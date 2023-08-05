@@ -14,7 +14,7 @@
 
 <br><br>
 
-- :Faculty: I hold a Bachelor's degree in Computer Science from the Faculty of Computers and Information, Luxor University
+- 🏫: `Bachelor's degree in Computer Science` from the Faculty of Computers and Information, Luxor University
 - :technologist: I love using Software to solve every `Problem`.
 - :computer: I am a competitive programmer.
 - :nerd_face: Always `learning new things`.
