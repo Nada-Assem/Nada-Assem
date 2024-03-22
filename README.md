@@ -1,13 +1,13 @@
 <h1 align="center">Hi👋 I'm Nada Assem</h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer;+Computer+Science+Student;Back-end+Developer+(.NET);competitive+programmer;Always+learn+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer;+Computer+Science+graduate;Back-end+Developer+(.NET);competitive+programmer;Always+learn+new+things" alt="Typing SVG" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nada-assem&label=Profile%20views&color=0e75b6&style=flat" alt="nada-assem" width=15%/> </p>
 
 
-<p> <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
+<p style="font-weight=bold"> <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 <img align="right" src="https://github.com/Nada-Assem/Nada-Assem/blob/main/Right_Side.gif?raw=true" width=30%>
 </p>
 
